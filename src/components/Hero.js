@@ -13,7 +13,7 @@ const Hero = () => {
 
   return (
     <section id="home" className="hero bg-primary text-white py-5" style={{ minHeight: '100vh', display: 'flex', alignItems: 'center' }}>
-      <video className="hero-video" autoPlay loop muted preload="auto">
+      <video className="hero-video" autoPlay loop muted playsInline preload="auto">
         <source src={capaVideo} type="video/mp4" />
         Seu navegador não suporta o elemento de vídeo.
       </video>
