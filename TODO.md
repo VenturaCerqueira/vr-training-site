@@ -1,0 +1,3 @@
+- [x] Modify Hero.js to include video background
+- [x] Update App.css to style the video background
+- [x] Test the changes by running the site
