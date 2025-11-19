@@ -1,3 +1,3 @@
-- [x] Modify Hero.js to include video background
-- [x] Update App.css to style the video background
-- [x] Test the changes by running the site
+# TODO List for Updating Copyright Notice
+
+- [x] Update the copyright text in Footer.js to "Em © 2023 VR Training Team. Todos os direitos reservados. Anderson Ventura Cerqueira"
